@@ -1,0 +1,16 @@
+Note: This is an unofficial port of the mod of the same name from 1.4.3 with given permission.
+
+Slug Town Pets adds the scrapped Calamity town pet slugs designed by IbanPlay into the game!
+Many thanks to IbanPlay for creating the design and sprites and giving permission to add them in.
+** This does NOT require Calamity Mod **
+
+How to obtain:
+Albino - Defeat EoC.
+Crypt - Defeat Deerclops.
+Storm - Defeat Duke Fishron.
+Devourer - Defeat Moon Lord.
+Universe - Have Zenith in your inventory.
+
+Credits:
+IbanPlay - Sprites & Concepts
+DozeZoze - Programming & Implementation

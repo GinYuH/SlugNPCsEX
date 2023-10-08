@@ -1,0 +1,3 @@
+displayName = [1.4.4] Slug Town Pets
+author = DozeZoze & IbanPlay
+version = 2.0.1
